@@ -1,20 +1,22 @@
 //front page - routing everything 
 const express = require("express");
 const mongoose = require("mongoose");
-const morgan = require("morgan");
+// what does this do?
+const logger = require("morgan");
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 
-const routes = require("./controllers")
+app.use(logger("dev"));
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout');
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workoutDb", { useNewUrlParser: true, useFindAndModify: false, useUnifiedTopology: true, });
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
 app.use(express.static("public"));
 
-app.use(routes)
+app.use(require("./routes/views.js"))
 
 app.listen(PORT, () => {
     console.log(`Listening on port ${PORT}!`);
