@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple workout tracker application utilizing Mongoose. 
+A simple workout tracker application utilizing Mongoose and MongoDB. 
 Users can 
     - create a new workout and choose between cardio such as running or resistance such as weight lifting
     - create multiple workouts in a day
@@ -25,11 +25,7 @@ Users can
 
 ## Installation
 
-You will need the package.json and the required dependencies to use the application - dotenv, express, mysl2, and sequelize.
-
-You will also need to create a .env file and include your mysql information.
-
-Additionally, you can use Insomnia to complete the CRUD request.
+NPM Install 
 
 Link to deployed application:
 https://workworkout.herokuapp.com/?id=6196da55370ad00016902fb5
