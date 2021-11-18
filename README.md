@@ -4,7 +4,7 @@
 
 A simple workout tracker application utilizing Mongoose and MongoDB. 
 
-Users can 
+Users can:
        - create a new workout and choose between cardio such as running or resistance such as weight lifting
         - create multiple workouts in a day
         - see last workout
