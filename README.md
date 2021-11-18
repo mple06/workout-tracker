@@ -38,7 +38,7 @@ Deployed application:
 
 ## Usage
 
-<img width="1380" alt="Screen Shot 2021-11-18 at 2 57 51 PM" src="https://user-images.githubusercontent.com/90426657/142511542-1f808ffe-143c-49c2-98e8-8cd2bb92cad9.png">
+![image](https://user-images.githubusercontent.com/90426657/142512410-11585446-ebd7-43ad-9fdf-1045761ff860.png)
 
 ![image](https://user-images.githubusercontent.com/90426657/142512266-8aeedff7-ecf9-47d4-9c84-4ec44252bb18.png)
 
