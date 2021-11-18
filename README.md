@@ -32,10 +32,7 @@ You will also need to create a .env file and include your mysql information.
 Additionally, you can use Insomnia to complete the CRUD request.
 
 Link to deployed application:
-https://mvtarget.herokuapp.com/
- - try api/categories
- - try api/products
- - try api/tags
+https://workworkout.herokuapp.com/?id=6196da55370ad00016902fb5
 
 ---
 
@@ -44,6 +41,15 @@ Deployed application:
 
 ## Usage
 
+<img width="1393" alt="Screen Shot 2021-11-18 at 2 58 06 PM" src="https://user-images.githubusercontent.com/90426657/142511541-de00d5b7-c252-4e24-b0ae-071caba6c697.png">
+
+<img width="1380" alt="Screen Shot 2021-11-18 at 2 57 51 PM" src="https://user-images.githubusercontent.com/90426657/142511542-1f808ffe-143c-49c2-98e8-8cd2bb92cad9.png">
+
+---
+
+## License
+
+MIT
 
 ---
 
