@@ -33,8 +33,6 @@ https://workworkout.herokuapp.com/?id=6196da55370ad00016902fb5
 
 ---
 
-Deployed application:
-
 
 ## Usage
 
