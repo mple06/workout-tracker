@@ -5,6 +5,7 @@
 A simple workout tracker application utilizing Mongoose and MongoDB. 
 
 Users can: 
+
        - create a new workout and choose between cardio such as running or resistance such as weight lifting
        - create multiple workouts in a day
        - see last workout
@@ -28,8 +29,7 @@ Users can:
 
 NPM Install and the Mongo DB
 
-Link to deployed application:
-https://workworkout.herokuapp.com/?id=6196da55370ad00016902fb5
+<a href="https://workworkout.herokuapp.com/?id=6196dfb8370ad00016902fe7/">Deployed App</a>
 
 ---
 
