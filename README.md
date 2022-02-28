@@ -27,7 +27,7 @@ Users can:
 
 ## Installation
 
-NPM Install and the Mongo DB
+NPM Install and Mongo DB
 
 <a href="https://workworkout.herokuapp.com/?id=6196dfb8370ad00016902fe7/">Deployed App</a>
 
